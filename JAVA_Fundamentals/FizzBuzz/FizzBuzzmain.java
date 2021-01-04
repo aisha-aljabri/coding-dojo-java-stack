@@ -1,7 +1,6 @@
 public class FizzBuzzmain {
 
     public static void main(String args[]) {
-
         FizzBuzz test = new FizzBuzz();
         String result = test.fizzBuzz(3);
         System.out.println(result);
