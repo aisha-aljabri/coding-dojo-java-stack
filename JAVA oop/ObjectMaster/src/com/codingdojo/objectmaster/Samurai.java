@@ -17,7 +17,7 @@ public class Samurai extends Human{
 		this.health += (this.health/2);
 	}
 	
-	public int howMany() {
+	public static int howMany() {
 		return counter;
 	}
 
