@@ -1,13 +1,13 @@
-package com.codingdojo.DisplayDate;
+package com.codingdojo.counter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DisplayDateApplication {
+public class CounterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DisplayDateApplication.class, args);
+		SpringApplication.run(CounterApplication.class, args);
 	}
 
 }

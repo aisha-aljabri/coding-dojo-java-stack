@@ -7,3 +7,5 @@
 	<h2><c:out value="${date}"/></h2>
 </body>
 </html>
+
+
